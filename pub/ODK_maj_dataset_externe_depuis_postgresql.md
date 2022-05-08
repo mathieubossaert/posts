@@ -101,3 +101,5 @@ FROM data_from_central.cmr_cistude_pose_pieges_session_courante
 WHERE concat(extract(YEAR FROM date_max),lpad(extract(doy FROM date_max)::text,3,'0')) > data_from_central.get_form_version('my_login','my_password','my.central.fdqn',5,'CMR_Cistude_captures')
 LIMIT 1;
 ```
+
+![la carte des pièges, à jour dans le formulaire de cpature](./ODK_select_from_map.jpeg)
