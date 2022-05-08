@@ -102,4 +102,4 @@ WHERE concat(extract(YEAR FROM date_max),lpad(extract(doy FROM date_max)::text,3
 LIMIT 1;
 ```
 
-![la carte des pièges, à jour dans le formulaire de cpature](./ODK_select_from_map.jpeg)
+![la carte des pièges, à jour dans le formulaire de cpature](http://si.cen-occitanie.org/wp-content/uploads/2022/05/ODK_select_from_map.jpeg)
