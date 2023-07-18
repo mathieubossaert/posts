@@ -1,6 +1,6 @@
 ### Contexte
 
-Comme pour l'article de [Florian May](https://forum.getodk.org/u/florian_may/summary) publié sur le [forum d'ODK](https://forum.getodk.org/t/turtle-monitoring-in-western-australia/37565), il est question ici de suivi de tortues, 
+Comme pour l'article de [Florian Mayer](https://forum.getodk.org/u/florian_may/summary) publié sur le [forum d'ODK](https://forum.getodk.org/t/turtle-monitoring-in-western-australia/37565), il est question ici de suivi de tortues, 
 mais en France et sur une espèce d'eau douce, la Cistude d'Europe, [_Emys Orbicularis_](https://inpn.mnhn.fr/espece/cd_nom/77381/tab/fiche).
 Même si la tortue Caouanne fait son retour sur nos plages de méditerranée, un suivi tel que celui mis en place en Australie n'est pas encore nécessaire ;-)
 
